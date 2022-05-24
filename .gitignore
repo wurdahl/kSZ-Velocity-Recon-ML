@@ -1,3 +1,6 @@
 *.fits
 SavedModels/
 Data/
+models/
+models2/
+checkpoint/
